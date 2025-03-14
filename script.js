@@ -171,7 +171,7 @@ console.log(numerosPares);
 
 /* Ejercicio 24 */
 let arrayNumerosMap = [1, 2, 3];
-const cuadrados = arrayNumerosFilter.map(num => num ** 2);
+const cuadrados = arrayNumerosMap.map(num => num ** 2);
 console.log(cuadrados);
 
 /* Ejercicio 25 */
